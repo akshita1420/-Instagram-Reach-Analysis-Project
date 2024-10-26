@@ -1,4 +1,4 @@
-# -Instagram-Reach-Analysis-Project
+# Instagram-Reach-Analysis-Project
 Instagram Reach Prediction Data Analytics Project This repository contains a data analytics project focused on predicting the reach of Instagram posts using time series analysis and the SARIMA model. The project aims to provide insights and forecast future reach, enabling users to optimize their content strategy and marketing efforts on Instagram.
 
 Project Overview The goal of this project is to develop a predictive model that utilizes historical Instagram reach data to forecast the reach of posts or accounts in the future. By analyzing patterns, trends, and seasonality, the model can provide valuable insights and predictions for optimizing content strategies and maximizing reach on Instagram.
